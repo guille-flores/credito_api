@@ -5,3 +5,5 @@ Solicitud Credito API
 3. El usuario será registrado en la DB sin importar si fue rechazado o aceptado
 4. Si se encuentra en la DB un usuario con el mismo RFC que el input, así como el mismo nombre y apellidos, entonces se actualiza este registro de la DB en lugar de duplicarlo. 
 5. El output es un JSON de la base de datos
+6. Para lanzar el servidor, se debe correr en la terminal el archivo .py y abrir el link donde marque la salida de la terminal (e.g.,  http://127.0.0.1:5000)
+
